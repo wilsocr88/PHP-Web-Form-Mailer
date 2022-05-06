@@ -1,0 +1,27 @@
+{
+    "name": "phpwebformmailer/phpwebformmailer",
+    "type": "library",
+    "description": "PHP Web Form Mailer is a PHP script for emailing web forms",
+    "authors": [
+        {
+            "name": "Jim Jagielski",
+            "email": "jimjag@gmail.com"
+        },
+        {
+            "name": "Marcus Bointon",
+            "email": "phpmailer@synchromedia.co.uk"
+        },
+        {
+            "name": "Andy Prevost",
+            "email": "codeworxtech@users.sourceforge.net"
+        },
+        {
+            "name": "Brent R. Matzelle"
+        }
+    ],
+    "require": {
+        "php": ">=5.0.0",
+        "phpmailer/phpmailer": ">=5.2.7"
+    },
+    "license": "MIT"
+}
